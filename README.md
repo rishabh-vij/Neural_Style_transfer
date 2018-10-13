@@ -4,7 +4,7 @@
 
 ## Overview
 
-Given a coneten image and a style image this art generation model can then blend the style in the content image and create new artistic pieces.
+Given a content image and a style image this art generation model can then blend the style in the content image and create new artistic pieces.
 
 
 
